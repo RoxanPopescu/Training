@@ -1,0 +1,245 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/roxana.popescu/AndroidStudioProjects/KotlinCodelabs/AKF6/AKF6.3/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/roxana.popescu/AndroidStudioProjects/KotlinCodelabs/AKF6/AKF6.3/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/roxana.popescu/AndroidStudioProjects/KotlinCodelabs/AKF6/AKF6.3/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/roxana.popescu/AndroidStudioProjects/KotlinCodelabs/AKF6/AKF6.3/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.databinding:databinding-adapters:3.3.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/databinding-adapters-3.3.0.aar/19c6411c9410ff7bcf69c5643c9a6396/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.3.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/databinding-runtime-3.3.0.aar/5ccc2511f818d9ac3ee2836200ef012b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha3.aar/6dbc49b373cb894b3675436f71783355/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0-alpha08] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-ktx-1.0.0-alpha08.aar/3bdf4bf42f20eb599f958c04308caed7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-alpha08] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-1.0.0-alpha08.aar/494293bf11b350bd63214807036b41f1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/d1fd9e0987f7bbca4497d95080377169/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/313fc08d101cec05fb5d020aa4909b0e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0-alpha08] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-ktx-1.0.0-alpha08.aar/d7f2be189eae6dbf338b59b25f718ae9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-alpha08] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-1.0.0-alpha08.aar/06128f105459d05b1e0afa8b6bc6a9b7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/759e64dcdefc119df800d939aeec264f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/ee5c0f32a422b2d9516ac56035a76b44/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/d685ebeddd87168ddab63c6f6feba014/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.0.1] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/core-ktx-1.0.1.aar/3fad52af783c9b49fe192c83d1c89c3b/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-runtime:2.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/room-runtime-2.0.0.aar/a361714a1704cc131ddedb292b74e619/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/5807b3a6d5d5b6870ba495e5ac665dd0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/ace188e6e77956914a49a9233d2a165f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/0092c298f25cb6b4cd018e0736fb5533/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0-alpha08] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-ktx-1.0.0-alpha08.aar/69a7432ff4ce4eadb63aa460e7c47110/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-alpha08] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-1.0.0-alpha08.aar/1b04b4e40e693b5d83692b8161ab4b90/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/be45ec8585775dcac2c5d240d4815008/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/56e5f09b92e347947e177daf88411c67/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/2da0ff12741b48173a30499fc89a0dce/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/8cb1247a43ac9e922a8fb85713f370e8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/a2c21b51ba6ba78199df7cb1b814d085/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/6636216e9c99deaa7f848e192a59b768/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/728abd7d774229539e8e8bfc4779b3a3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/fb69e75207f8b2f33041bf6149aab3b6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/e01072998134adb6174c630bf61e3432/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/8ae67d6e2dcd8f6787bfeea1ee2be979/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/c53d29d08b71d779bb3b0552072485cf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/31e9ffa39fe68e1c5449502e2708f154/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0-alpha08] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-ktx-1.0.0-alpha08.aar/4b4dcba2d7bc498121a96d4190c9d694/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common:1.0.0-alpha08] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-1.0.0-alpha08.aar/b3bc3e71c9ad1b18769d36c47cc3f4e3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/03efb5e909393ab135e1e3d020e5626c/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/3484fe6270e8723c0bdec91bf1f91372/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/lifecycle-service-2.0.0.aar/5dfd0868c84b92f4b56b3ee1eaa9c9e1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/5e53ca5e59f70b58b6e7e803251c5d51/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/21a53a3be24b3f48846e11ea5d2a6c67/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/f6951d6f22d95bf1a41f8b8b1829d047/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/247af3b4ca96f2ae45d4b1aa8192484b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/sqlite-framework-2.0.0.aar/a18a5d2596782e2a27bdedd4aaa90325/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/sqlite-2.0.0.aar/1ed97407da6d33c590936ec75c5212b5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/23ed59201cf1925ad9e20d5db55c4bba/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/027e5ddff7fc44110db29df5be19b934/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/512299aa83f4bc02c4e44406a3c5e08b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/8b8f8d5d4fa3981cf638b9847562be9d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/46a246ab603ec027995b607bbfcc9816/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/74fd5cab7f05b5afda26d8f5bc5108ef/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/b584a581a061751693d2747a6c5a6b32/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/f31d35254a04fa6b2837f89c0f3544f1/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/roxana.popescu/AndroidStudioProjects/KotlinCodelabs/AKF6/AKF6.3/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/roxana.popescu/AndroidStudioProjects/KotlinCodelabs/AKF6/AKF6.3/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/roxana.popescu/AndroidStudioProjects/KotlinCodelabs/AKF6/AKF6.3/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/roxana.popescu/AndroidStudioProjects/KotlinCodelabs/AKF6/AKF6.3/app/src/main/AndroidManifest.xml:3:5-54
+		INJECTED from /Users/roxana.popescu/AndroidStudioProjects/KotlinCodelabs/AKF6/AKF6.3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/roxana.popescu/AndroidStudioProjects/KotlinCodelabs/AKF6/AKF6.3/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/roxana.popescu/AndroidStudioProjects/KotlinCodelabs/AKF6/AKF6.3/app/src/main/AndroidManifest.xml
+		ADDED from /Users/roxana.popescu/AndroidStudioProjects/KotlinCodelabs/AKF6/AKF6.3/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/roxana.popescu/AndroidStudioProjects/KotlinCodelabs/AKF6/AKF6.3/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/roxana.popescu/AndroidStudioProjects/KotlinCodelabs/AKF6/AKF6.3/app/src/main/AndroidManifest.xml
+		ADDED from /Users/roxana.popescu/AndroidStudioProjects/KotlinCodelabs/AKF6/AKF6.3/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/roxana.popescu/AndroidStudioProjects/KotlinCodelabs/AKF6/AKF6.3/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/roxana.popescu/AndroidStudioProjects/KotlinCodelabs/AKF6/AKF6.3/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/roxana.popescu/AndroidStudioProjects/KotlinCodelabs/AKF6/AKF6.3/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha3.aar/6dbc49b373cb894b3675436f71783355/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha3.aar/6dbc49b373cb894b3675436f71783355/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/d1fd9e0987f7bbca4497d95080377169/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/d1fd9e0987f7bbca4497d95080377169/AndroidManifest.xml:22:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/ee5c0f32a422b2d9516ac56035a76b44/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/ee5c0f32a422b2d9516ac56035a76b44/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.core:core:1.0.1] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/03efb5e909393ab135e1e3d020e5626c/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/03efb5e909393ab135e1e3d020e5626c/AndroidManifest.xml:22:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/3484fe6270e8723c0bdec91bf1f91372/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/3484fe6270e8723c0bdec91bf1f91372/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/21a53a3be24b3f48846e11ea5d2a6c67/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/21a53a3be24b3f48846e11ea5d2a6c67/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/03efb5e909393ab135e1e3d020e5626c/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/roxana.popescu/AndroidStudioProjects/KotlinCodelabs/AKF6/AKF6.3/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/roxana.popescu/AndroidStudioProjects/KotlinCodelabs/AKF6/AKF6.3/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/roxana.popescu/AndroidStudioProjects/KotlinCodelabs/AKF6/AKF6.3/app/src/main/AndroidManifest.xml:9:9-68
+	android:icon
+		ADDED from /Users/roxana.popescu/AndroidStudioProjects/KotlinCodelabs/AKF6/AKF6.3/app/src/main/AndroidManifest.xml:7:9-57
+	android:allowBackup
+		ADDED from /Users/roxana.popescu/AndroidStudioProjects/KotlinCodelabs/AKF6/AKF6.3/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/roxana.popescu/AndroidStudioProjects/KotlinCodelabs/AKF6/AKF6.3/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.android.trackmysleepquality.MainActivity
+ADDED from /Users/roxana.popescu/AndroidStudioProjects/KotlinCodelabs/AKF6/AKF6.3/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/roxana.popescu/AndroidStudioProjects/KotlinCodelabs/AKF6/AKF6.3/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/roxana.popescu/AndroidStudioProjects/KotlinCodelabs/AKF6/AKF6.3/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/roxana.popescu/AndroidStudioProjects/KotlinCodelabs/AKF6/AKF6.3/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/roxana.popescu/AndroidStudioProjects/KotlinCodelabs/AKF6/AKF6.3/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/roxana.popescu/AndroidStudioProjects/KotlinCodelabs/AKF6/AKF6.3/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/roxana.popescu/AndroidStudioProjects/KotlinCodelabs/AKF6/AKF6.3/app/src/main/AndroidManifest.xml:16:27-74
+meta-data#preloaded_fonts
+ADDED from /Users/roxana.popescu/AndroidStudioProjects/KotlinCodelabs/AKF6/AKF6.3/app/src/main/AndroidManifest.xml:19:9-21:57
+	android:resource
+		ADDED from /Users/roxana.popescu/AndroidStudioProjects/KotlinCodelabs/AKF6/AKF6.3/app/src/main/AndroidManifest.xml:21:13-54
+	android:name
+		ADDED from /Users/roxana.popescu/AndroidStudioProjects/KotlinCodelabs/AKF6/AKF6.3/app/src/main/AndroidManifest.xml:20:13-43
+uses-sdk
+INJECTED from /Users/roxana.popescu/AndroidStudioProjects/KotlinCodelabs/AKF6/AKF6.3/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/roxana.popescu/AndroidStudioProjects/KotlinCodelabs/AKF6/AKF6.3/app/src/main/AndroidManifest.xml
+INJECTED from /Users/roxana.popescu/AndroidStudioProjects/KotlinCodelabs/AKF6/AKF6.3/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.3.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/databinding-adapters-3.3.0.aar/19c6411c9410ff7bcf69c5643c9a6396/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.3.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/databinding-adapters-3.3.0.aar/19c6411c9410ff7bcf69c5643c9a6396/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.3.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/databinding-runtime-3.3.0.aar/5ccc2511f818d9ac3ee2836200ef012b/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.3.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/databinding-runtime-3.3.0.aar/5ccc2511f818d9ac3ee2836200ef012b/AndroidManifest.xml:22:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha3.aar/6dbc49b373cb894b3675436f71783355/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha3.aar/6dbc49b373cb894b3675436f71783355/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0-alpha08] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-ktx-1.0.0-alpha08.aar/3bdf4bf42f20eb599f958c04308caed7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0-alpha08] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-ktx-1.0.0-alpha08.aar/3bdf4bf42f20eb599f958c04308caed7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-alpha08] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-1.0.0-alpha08.aar/494293bf11b350bd63214807036b41f1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-alpha08] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-1.0.0-alpha08.aar/494293bf11b350bd63214807036b41f1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/d1fd9e0987f7bbca4497d95080377169/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/d1fd9e0987f7bbca4497d95080377169/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/313fc08d101cec05fb5d020aa4909b0e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/313fc08d101cec05fb5d020aa4909b0e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0-alpha08] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-ktx-1.0.0-alpha08.aar/d7f2be189eae6dbf338b59b25f718ae9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0-alpha08] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-ktx-1.0.0-alpha08.aar/d7f2be189eae6dbf338b59b25f718ae9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-alpha08] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-1.0.0-alpha08.aar/06128f105459d05b1e0afa8b6bc6a9b7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-alpha08] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-1.0.0-alpha08.aar/06128f105459d05b1e0afa8b6bc6a9b7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/759e64dcdefc119df800d939aeec264f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/759e64dcdefc119df800d939aeec264f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/ee5c0f32a422b2d9516ac56035a76b44/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/ee5c0f32a422b2d9516ac56035a76b44/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/d685ebeddd87168ddab63c6f6feba014/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/d685ebeddd87168ddab63c6f6feba014/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.0.1] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/core-ktx-1.0.1.aar/3fad52af783c9b49fe192c83d1c89c3b/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.1] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/core-ktx-1.0.1.aar/3fad52af783c9b49fe192c83d1c89c3b/AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-runtime:2.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/room-runtime-2.0.0.aar/a361714a1704cc131ddedb292b74e619/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/room-runtime-2.0.0.aar/a361714a1704cc131ddedb292b74e619/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/5807b3a6d5d5b6870ba495e5ac665dd0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/5807b3a6d5d5b6870ba495e5ac665dd0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/ace188e6e77956914a49a9233d2a165f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/ace188e6e77956914a49a9233d2a165f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/0092c298f25cb6b4cd018e0736fb5533/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/0092c298f25cb6b4cd018e0736fb5533/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0-alpha08] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-ktx-1.0.0-alpha08.aar/69a7432ff4ce4eadb63aa460e7c47110/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0-alpha08] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-ktx-1.0.0-alpha08.aar/69a7432ff4ce4eadb63aa460e7c47110/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-alpha08] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-1.0.0-alpha08.aar/1b04b4e40e693b5d83692b8161ab4b90/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-alpha08] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-1.0.0-alpha08.aar/1b04b4e40e693b5d83692b8161ab4b90/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/be45ec8585775dcac2c5d240d4815008/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/be45ec8585775dcac2c5d240d4815008/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/56e5f09b92e347947e177daf88411c67/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/56e5f09b92e347947e177daf88411c67/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/2da0ff12741b48173a30499fc89a0dce/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/2da0ff12741b48173a30499fc89a0dce/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/8cb1247a43ac9e922a8fb85713f370e8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/8cb1247a43ac9e922a8fb85713f370e8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/a2c21b51ba6ba78199df7cb1b814d085/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/a2c21b51ba6ba78199df7cb1b814d085/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/6636216e9c99deaa7f848e192a59b768/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/6636216e9c99deaa7f848e192a59b768/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/728abd7d774229539e8e8bfc4779b3a3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/728abd7d774229539e8e8bfc4779b3a3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/fb69e75207f8b2f33041bf6149aab3b6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/fb69e75207f8b2f33041bf6149aab3b6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/e01072998134adb6174c630bf61e3432/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/e01072998134adb6174c630bf61e3432/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/8ae67d6e2dcd8f6787bfeea1ee2be979/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/8ae67d6e2dcd8f6787bfeea1ee2be979/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/c53d29d08b71d779bb3b0552072485cf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/c53d29d08b71d779bb3b0552072485cf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/31e9ffa39fe68e1c5449502e2708f154/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/31e9ffa39fe68e1c5449502e2708f154/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0-alpha08] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-ktx-1.0.0-alpha08.aar/4b4dcba2d7bc498121a96d4190c9d694/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0-alpha08] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-ktx-1.0.0-alpha08.aar/4b4dcba2d7bc498121a96d4190c9d694/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0-alpha08] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-1.0.0-alpha08.aar/b3bc3e71c9ad1b18769d36c47cc3f4e3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0-alpha08] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-1.0.0-alpha08.aar/b3bc3e71c9ad1b18769d36c47cc3f4e3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/03efb5e909393ab135e1e3d020e5626c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/03efb5e909393ab135e1e3d020e5626c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/3484fe6270e8723c0bdec91bf1f91372/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/3484fe6270e8723c0bdec91bf1f91372/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/lifecycle-service-2.0.0.aar/5dfd0868c84b92f4b56b3ee1eaa9c9e1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/lifecycle-service-2.0.0.aar/5dfd0868c84b92f4b56b3ee1eaa9c9e1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/5e53ca5e59f70b58b6e7e803251c5d51/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/5e53ca5e59f70b58b6e7e803251c5d51/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/21a53a3be24b3f48846e11ea5d2a6c67/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/21a53a3be24b3f48846e11ea5d2a6c67/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/f6951d6f22d95bf1a41f8b8b1829d047/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/f6951d6f22d95bf1a41f8b8b1829d047/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/247af3b4ca96f2ae45d4b1aa8192484b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/247af3b4ca96f2ae45d4b1aa8192484b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/sqlite-framework-2.0.0.aar/a18a5d2596782e2a27bdedd4aaa90325/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/sqlite-framework-2.0.0.aar/a18a5d2596782e2a27bdedd4aaa90325/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/sqlite-2.0.0.aar/1ed97407da6d33c590936ec75c5212b5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/sqlite-2.0.0.aar/1ed97407da6d33c590936ec75c5212b5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/23ed59201cf1925ad9e20d5db55c4bba/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/23ed59201cf1925ad9e20d5db55c4bba/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/027e5ddff7fc44110db29df5be19b934/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/027e5ddff7fc44110db29df5be19b934/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/512299aa83f4bc02c4e44406a3c5e08b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/512299aa83f4bc02c4e44406a3c5e08b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/8b8f8d5d4fa3981cf638b9847562be9d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/8b8f8d5d4fa3981cf638b9847562be9d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/46a246ab603ec027995b607bbfcc9816/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/46a246ab603ec027995b607bbfcc9816/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/74fd5cab7f05b5afda26d8f5bc5108ef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/74fd5cab7f05b5afda26d8f5bc5108ef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/b584a581a061751693d2747a6c5a6b32/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/b584a581a061751693d2747a6c5a6b32/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/f31d35254a04fa6b2837f89c0f3544f1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/f31d35254a04fa6b2837f89c0f3544f1/AndroidManifest.xml:20:5-44
+INJECTED from /Users/roxana.popescu/AndroidStudioProjects/KotlinCodelabs/AKF6/AKF6.3/app/src/main/AndroidManifest.xml
+INJECTED from /Users/roxana.popescu/AndroidStudioProjects/KotlinCodelabs/AKF6/AKF6.3/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/roxana.popescu/AndroidStudioProjects/KotlinCodelabs/AKF6/AKF6.3/app/src/main/AndroidManifest.xml
+		ADDED from /Users/roxana.popescu/AndroidStudioProjects/KotlinCodelabs/AKF6/AKF6.3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/roxana.popescu/AndroidStudioProjects/KotlinCodelabs/AKF6/AKF6.3/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/roxana.popescu/AndroidStudioProjects/KotlinCodelabs/AKF6/AKF6.3/app/src/main/AndroidManifest.xml
+		ADDED from /Users/roxana.popescu/AndroidStudioProjects/KotlinCodelabs/AKF6/AKF6.3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/roxana.popescu/AndroidStudioProjects/KotlinCodelabs/AKF6/AKF6.3/app/src/main/AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/3484fe6270e8723c0bdec91bf1f91372/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/3484fe6270e8723c0bdec91bf1f91372/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/3484fe6270e8723c0bdec91bf1f91372/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/3484fe6270e8723c0bdec91bf1f91372/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/roxana.popescu/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/3484fe6270e8723c0bdec91bf1f91372/AndroidManifest.xml:24:13-79
