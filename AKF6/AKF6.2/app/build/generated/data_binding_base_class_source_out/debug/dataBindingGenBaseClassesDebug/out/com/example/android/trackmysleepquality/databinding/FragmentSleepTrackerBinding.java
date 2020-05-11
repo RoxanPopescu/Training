@@ -7,9 +7,11 @@ import android.widget.Button;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
+import androidx.databinding.Bindable;
 import androidx.databinding.DataBindingComponent;
 import androidx.databinding.DataBindingUtil;
 import androidx.databinding.ViewDataBinding;
+import com.example.android.trackmysleepquality.sleeptracker.SleepTrackerViewModel;
 
 public abstract class FragmentSleepTrackerBinding extends ViewDataBinding {
   @NonNull
@@ -24,6 +26,9 @@ public abstract class FragmentSleepTrackerBinding extends ViewDataBinding {
   @NonNull
   public final TextView textview;
 
+  @Bindable
+  protected SleepTrackerViewModel mSleepTrackerViewModel;
+
   protected FragmentSleepTrackerBinding(DataBindingComponent _bindingComponent, View _root,
       int _localFieldCount, Button clearButton, Button startButton, Button stopButton,
       TextView textview) {
@@ -32,6 +37,13 @@ public abstract class FragmentSleepTrackerBinding extends ViewDataBinding {
     this.startButton = startButton;
     this.stopButton = stopButton;
     this.textview = textview;
+  }
+
+  public abstract void setSleepTrackerViewModel(@Nullable SleepTrackerViewModel sleepTrackerViewModel);
+
+  @Nullable
+  public SleepTrackerViewModel getSleepTrackerViewModel() {
+    return mSleepTrackerViewModel;
   }
 
   @NonNull

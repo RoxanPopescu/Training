@@ -96,10 +96,11 @@ public class DataBinderMapperImpl extends DataBinderMapper {
   }
 
   private static class InnerBrLookup {
-    static final SparseArray<String> sKeys = new SparseArray<String>(2);
+    static final SparseArray<String> sKeys = new SparseArray<String>(3);
 
     static {
       sKeys.put(0, "_all");
+      sKeys.put(1, "sleepTrackerViewModel");
     }
   }
 
