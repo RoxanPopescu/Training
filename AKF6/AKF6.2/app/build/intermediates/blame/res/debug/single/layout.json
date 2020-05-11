@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/roxana.popescu/AndroidStudioProjects/KotlinCodelabs/AKF6/AKF6.2/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_sleep_quality.xml",
+        "source": "/Users/roxana.popescu/AndroidStudioProjects/KotlinCodelabs/AKF6/AKF6.2/app/src/main/res/layout/fragment_sleep_quality.xml"
+    },
+    {
+        "merged": "/Users/roxana.popescu/AndroidStudioProjects/KotlinCodelabs/AKF6/AKF6.2/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_sleep_tracker.xml",
+        "source": "/Users/roxana.popescu/AndroidStudioProjects/KotlinCodelabs/AKF6/AKF6.2/app/src/main/res/layout/fragment_sleep_tracker.xml"
+    }
+]
