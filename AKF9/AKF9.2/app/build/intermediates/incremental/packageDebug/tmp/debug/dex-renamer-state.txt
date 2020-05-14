@@ -1,0 +1,4 @@
+#Thu May 14 17:30:17 EEST 2020
+base.0=/Users/roxana.popescu/AndroidStudioProjects/KotlinCodelabs/AKF9/AKF9.2/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex

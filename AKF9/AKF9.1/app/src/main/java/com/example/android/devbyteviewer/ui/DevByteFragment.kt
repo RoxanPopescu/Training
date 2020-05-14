@@ -67,6 +67,7 @@ class DevByteFragment : Fragment() {
      */
     override fun onActivityCreated(savedInstanceState: Bundle?) {
         super.onActivityCreated(savedInstanceState)
+
         viewModel.playlist.observe(viewLifecycleOwner, Observer<List<DevByteVideo>> { videos ->
             videos?.apply {
                 viewModelAdapter?.videos = videos

@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AKF9.1.iml" filepath="$PROJECT_DIR$/AKF9.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AKF9.1.iml" filepath="$PROJECT_DIR$/AKF9.1.iml" group="AKF9.1" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="AKF9.1/app" />
     </modules>
   </component>
 </project>
